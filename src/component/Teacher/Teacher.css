@@ -1,0 +1,26 @@
+.item{
+    border: 2px solid rgb(78, 106, 117);
+    padding: 5px;
+}
+.img-teacher{
+    display: flex;
+    border: 0;
+    border-radius: 50%;
+    justify-content: center;
+}
+p{
+    margin:5px 15px;
+}
+.btn{
+    width: 100%;
+    background-color: rgb(13, 119, 133);
+    border: 0;
+    border-radius: 30px;
+    color: white;
+    height: 30px;
+}
+.btn:hover{
+    background-color: rgba(205, 226, 82, 0.877);
+    color: black;
+
+}
